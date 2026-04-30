@@ -1,0 +1,10 @@
+openenv[core]>=0.2.0
+fastapi>=0.115.0
+uvicorn>=0.24.0
+nbconvert>=7.0.0
+nbformat>=5.0.0
+transformers>=4.40.0
+accelerate>=0.29.0
+
+
+
